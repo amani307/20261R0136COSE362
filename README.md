@@ -1,6 +1,10 @@
 Team I5 - COSE362 Machine Learning Project
 AI x Medical: Conditional Diffusion for Rare Arrhythmia ECG Generation
 
+**Final submission notebook:** `Team_I5_ECG_Diffusion_FINAL.ipynb`
+
+Individual member working notebooks (`Amani_Copy_Notebook.ipynb`, `Imran_Copy_Notebook.ipynb`) and earlier drafts (`archive/`) are kept for reference but are not the graded submission.
+
 Members:
 
 Ayaka - 2023320144
